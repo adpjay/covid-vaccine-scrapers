@@ -162,5 +162,10 @@
         "city": "Natick",
         "zip": "01760",
         "signUpLink": "https://home.color.com/vaccine/register/natickmall"
+    },
+    "BigY": {
+        "signUpLink": "https://www.bigy.com/Pharmacy/covid19-vaccine-faq",
+        "website": "https://www.bigy.com/vaccine-eligibility-check-ma-2",
+        "name": "Big Y"
     }
 }
